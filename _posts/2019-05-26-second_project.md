@@ -9,4 +9,4 @@ Based on the theory of valence issues, scandals are salient due to they may reve
 
 Keywords: non-corruption scandals; valence issue; conjoint analysis; spill-over effect
 
-Papers, data, and replication codes could be reached [here](https://github.com/tzuliu/Do-Scandals-Matter-A-Conjoint-Experiment-in-the-U.K. "2nd project").( [Data](https://github.com/tzuliu/Do-Scandals-Matter-A-Conjoint-Experiment-in-the-U.K./tree/master/Data "data"), [R-Codes](https://github.com/tzuliu/Do-Scandals-Matter-A-Conjoint-Experiment-in-the-U.K./tree/master/R%20Files "rcode")
+Papers, data, and replication codes could be reached [here](https://github.com/tzuliu/Do-Scandals-Matter-A-Conjoint-Experiment-in-the-U.K. "2nd project").( [Data](https://github.com/tzuliu/Do-Scandals-Matter-A-Conjoint-Experiment-in-the-U.K./tree/master/Data "data"), [R-Codes](https://github.com/tzuliu/Do-Scandals-Matter-A-Conjoint-Experiment-in-the-U.K./tree/master/R%20Files "rcode"))
