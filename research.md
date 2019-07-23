@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Peer-Reviewed Papers
+Peer-Reviewed Paper
 ===
 
 Adams, James, Luca Bernardi,  Lawrence Ezrow, Oakley B. Grodon, Tzu-Ping Liu, and M. Chritine Phillips. 2019. "[A Problem with Empirical Studies of Party Policy Shifts: Alternative Measures of Party Shifts Are Uncorrelated.]({{ site.baseurl }}{% post_url 2019-05-27-ejpr1 %})" *European Journal of Political Research* DOI: https://doi.org/10.1111/1475-6765.12324.
@@ -19,6 +19,13 @@ Participation: Lessons of the 2010 City Mayoral Elections in Taiwan.]({{ site.ba
 
 Liu, Tzu-Ping, Chung-li Wu, and Shi-chan Dai. 2012. "[Cross-Pressures, Opinion Expression, and Party Identification: Lessons of the 2008 Legislative Yuan Elections in Taiwan.]({{ site.baseurl }}{% post_url 2019-07-23-ccnetwork %})" *Journal of Electoral Studies*  19(2):1-36. (in Chinese)
 
+Under Review
+===
+
+Liu, Tzu-Ping. [How Do Non-Corruption Scandals Affect Voters to Evaluate Politicians? Empirical Evidence from A Conjoint Experiment in the U.K.]({{ site.baseurl }}{% post_url 2019-05-26-second_project %}) July 2019.
+
+Liu, Tzu-Ping. [Political Scandals Do Not Scare Party Supporters Away–Empirical Evidence from An Interrupted Time-Series Design and Break Point Detection.]({{ site.baseurl }}{% post_url 2019-05-26-first_project %}) July 2019.
+
 Book Chapter
 ===
 
@@ -26,10 +33,6 @@ Wu, Chung-li and Tzu-Ping Liu. 2017. "Political Participation in Taiwan." in *[T
 
 Works in Progress
 ===
-
-Liu, Tzu-Ping. [How Do Non-Corruption Scandals Affect Voters to Evaluate Politicians? Empirical Evidence from A Conjoint Experiment in the U.K.]({{ site.baseurl }}{% post_url 2019-05-26-second_project %}) July 2019. (*Under Review*)
-
-Liu, Tzu-Ping. [Political Scandals Do Not Scare Party Supporters Away–Empirical Evidence from An Interrupted Time-Series Design and Break Point Detection.]({{ site.baseurl }}{% post_url 2019-05-26-second_project %}) July 2019. (*Under Review*)
 
 Liu, Tzu-Ping and Ryan Hubert. "One Campaign Website, Multiple Constituencies." July 2019.
 
