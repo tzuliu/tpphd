@@ -15,7 +15,7 @@ Hare, Christopher, Tzu-Ping Liu, and Robert Lupton. 2018. "[What Ordered Optimal
 Chen, Ted Hsuan Yun, Liu, Tzu-Ping, and Chung-li Wu. 2014. "[Policy-Balancing and Ticket-Splitting: Problems with 'Preference for Checks and Balances' in Taiwanese Electoral Studies.]({{ site.baseurl }}{% post_url 2019-07-23-jjps %})" *Japanese Journal of Political Science* 15(2): 317-337.
 
 Liu, Tzu-Ping, Shih-chan Dai, and Chung-li Wu. 2013. "[Cross-Cutting Networks and Political
-Participation: Lessons of the 2010 City Mayoral Elections in Taiwan.]({{ site.baseurl }}{% post_url 2019-07-23-asiansurvey1 %})" *Asian Survey* 30(2): 91-104.
+Participation: Lessons of the 2010 City Mayoral Elections in Taiwan.]({{ site.baseurl }}{% post_url 2019-07-23-asiansurvey1 %})" *East Asia* 30(2): 91-104.
 
 Liu, Tzu-Ping, Chung-li Wu, and Shi-chan Dai. 2012. "[Cross-Pressures, Opinion Expression, and Party Identification: Lessons of the 2008 Legislative Yuan Elections in Taiwan.]({{ site.baseurl }}{% post_url 2019-07-23-ccnetwork %})" *Journal of Electoral Studies*  19(2):1-36. (in Chinese)
 
