@@ -7,4 +7,4 @@ permalink: /software/
 R Package
 ===
 
-"ooc: Ordered Optimal Classification" ([Github](https://github.com/tzuliu/ooc))
+"ooc: Ordered Optimal Classification (with Christopher Hare and Robert Lupton)" [ [Github](https://github.com/tzuliu/ooc)) ]
