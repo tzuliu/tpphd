@@ -7,7 +7,7 @@ permalink: /research/
 Peer-Reviewed Paper
 ===
 
-Adams, James, Luca Bernardi,  Lawrence Ezrow, Oakley B. Grodon, Tzu-Ping Liu, and M. Chritine Phillips. 2019. "[A Problem with Empirical Studies of Party Policy Shifts: Alternative Measures of Party Shifts Are Uncorrelated.]({{ site.baseurl }}{% post_url 2019-05-27-ejpr1 %})" *European Journal of Political Research* DOI: https://doi.org/10.1111/1475-6765.12324.
+Adams, James, Luca Bernardi,  Lawrence Ezrow, Oakley B. Grodon, Tzu-Ping Liu, and M. Chritine Phillips. 2019. "[A Problem with Empirical Studies of Party Policy Shifts: Alternative Measures of Party Shifts Are Uncorrelated.]({{ site.baseurl }}{% post_url 2019-05-27-ejpr1 %})" *European Journal of Political Research* 58(4): 1234-1244.
 
 Hare, Christopher, Tzu-Ping Liu, and Robert Lupton. 2018. "[What Ordered Optimal Classification Reveals about Ideological Structure, Cleavages, and Polarization in the American Mass Public.]({{ site.baseurl }}{% post_url 2019-05-07-ooc %})" *Public Choice* 176(1-2): 57-78.
 
@@ -33,6 +33,10 @@ Wu, Chung-li and Tzu-Ping Liu. 2017. "Political Participation in Taiwan." in *[T
 
 Works in Progress
 ===
+
+Lu, Tzu-Ping, Gento Kato, and Sam Fuller. "Bridging Ordinal Optimal Classification with Linear Non-Parametric Bridging." January 2020.
+
+Lu, Tzu-Ping and Geoff Allen. "Latent Nationalism, Political Opportunity and the Rise of Europe's Far Right." December 2019.
 
 Liu, Tzu-Ping and Ryan Hubert. "One Campaign Website, Multiple Constituencies." July 2019.
 
