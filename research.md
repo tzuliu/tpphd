@@ -34,9 +34,11 @@ Wu, Chung-li and Tzu-Ping Liu. 2017. "Political Participation in Taiwan." in *[T
 Works in Progress
 ===
 
-Lu, Tzu-Ping, Gento Kato, and Sam Fuller. "Bridging Ordinal Optimal Classification with Linear Non-Parametric Bridging." January 2020.
+Liu, Tzu-Ping and Takanori Fujiwara. ``Contrastive Multiple Component Analysis (cMCA): Applying the Contrastive Learning Method to Identify Political Subgroups.'' March 2020.
 
-Lu, Tzu-Ping and Geoff Allen. "Latent Nationalism, Political Opportunity and the Rise of Europe's Far Right." December 2019.
+Liu, Tzu-Ping, Gento Kato, and Sam Fuller. "Non-Parametric Bridging of Non-Parametric Ideological Scales: Application to Mapping Voters on Politicians’ Ideological Space." March 2020.
+
+Liu, Tzu-Ping and Geoff Allen. "Latent Nationalism, Political Opportunity and the Rise of Europe's Far Right." January 2020.
 
 Liu, Tzu-Ping and Ryan Hubert. "One Campaign Website, Multiple Constituencies." July 2019.
 
