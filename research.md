@@ -22,6 +22,8 @@ Liu, Tzu-Ping, Chung-li Wu, and Shi-chan Dai. 2012. "[Cross-Pressures, Opinion E
 Under Review
 ===
 
+Liu, Tzu-Ping and Takanori Fujiwara. [Contrastive Multiple Component Analysis (cMCA): Applying the Contrastive Learning Method to Identify Political Subgroups.]({{ site.baseurl }}{% post_url 2020-07-01-cmca %}) July 2020.
+
 Liu, Tzu-Ping. [How Do Non-Corruption Scandals Affect Voters to Evaluate Politicians? Empirical Evidence from A Conjoint Experiment in the U.K.]({{ site.baseurl }}{% post_url 2019-05-26-second_project %}) July 2019.
 
 Liu, Tzu-Ping. [Political Scandals Do Not Scare Party Supporters Away–Empirical Evidence from An Interrupted Time-Series Design and Break Point Detection.]({{ site.baseurl }}{% post_url 2019-05-26-first_project %}) July 2019.
@@ -33,8 +35,6 @@ Wu, Chung-li and Tzu-Ping Liu. 2017. "Political Participation in Taiwan." in *[T
 
 Works in Progress
 ===
-
-Liu, Tzu-Ping and Takanori Fujiwara. ``Contrastive Multiple Component Analysis (cMCA): Applying the Contrastive Learning Method to Identify Political Subgroups.'' March 2020.
 
 Liu, Tzu-Ping, Gento Kato, and Sam Fuller. "Non-Parametric Bridging of Non-Parametric Ideological Scales: Application to Mapping Voters on Politicians’ Ideological Space." March 2020.
 
