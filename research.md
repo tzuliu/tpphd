@@ -22,7 +22,7 @@ Liu, Tzu-Ping, Chung-li Wu, and Shi-chan Dai. 2012. "[Cross-Pressures, Opinion E
 Under Review
 ===
 
-Liu, Tzu-Ping and Takanori Fujiwara. [Contrastive Multiple Component Analysis (cMCA): Applying the Contrastive Learning Method to Identify Political Subgroups.]({{ site.baseurl }}{% post_url 2020-07-01-cmca %}) July 2020.
+Liu, Tzu-Ping and Takanori Fujiwara. [Contrastive Multiple Correspondence Analysis (cMCA): Applying the Contrastive Learning Method to Identify Political Subgroups.]({{ site.baseurl }}{% post_url 2020-07-01-cmca %}) July 2020.
 
 Liu, Tzu-Ping. [How Do Non-Corruption Scandals Affect Voters to Evaluate Politicians? Empirical Evidence from A Conjoint Experiment in the U.K.]({{ site.baseurl }}{% post_url 2019-05-26-second_project %}) July 2019.
 
