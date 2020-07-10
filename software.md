@@ -7,6 +7,8 @@ permalink: /software/
 R Package
 ===
 
-"ipbridging: Non-Parametrically Bridging Ideal Points (with Gento Kato and Sam Fuller)" \[[Github](https://github.com/gentok/ipbridging)\]
+"ccmca: Contrasting Clusters in Multiple Correspondence Analysis (with [Takanori Fujiwara](https://takanori-fujiwara.github.io/))" \[Under Construction]
 
-"ooc: Ordered Optimal Classification (with Christopher Hare and Robert Lupton)" \[[Github](https://github.com/tzuliu/ooc)\]
+"ipbridging: Non-Parametrically Bridging Ideal Points (with (Gento Kato)[https://gentok.github.io/] and Sam Fuller)" \[[Github](https://github.com/gentok/ipbridging)\]
+
+"ooc: Ordered Optimal Classification (with (Christopher Hare)[https://www.christopherdhare.com/] and (Robert Lupton)[https://www.robertnlupton.com/])" \[[Github](https://github.com/tzuliu/ooc)\]
