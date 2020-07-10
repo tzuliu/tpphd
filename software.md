@@ -4,7 +4,7 @@ title: Software
 permalink: /software/
 ---
 
-Python Package
+Python Module
 ===
 
 "ccmca: Contrasting Clusters in Multiple Correspondence Analysis (MCA) (with [Takanori Fujiwara](https://takanori-fujiwara.github.io/))" \[Under Construction\]
