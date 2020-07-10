@@ -4,10 +4,13 @@ title: Software
 permalink: /software/
 ---
 
-R Package
+Python Package
 ===
 
 "ccmca: Contrasting Clusters in Multiple Correspondence Analysis (MCA) (with [Takanori Fujiwara](https://takanori-fujiwara.github.io/))" \[Under Construction\]
+
+R Package
+===
 
 "ipbridging: Non-Parametrically Bridging Ideal Points (with [Gento Kato](https://gentok.github.io/) and Sam Fuller)" \[[Github](https://github.com/gentok/ipbridging)\]
 
