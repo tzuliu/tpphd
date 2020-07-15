@@ -22,6 +22,8 @@ Liu, Tzu-Ping, Chung-li Wu, and Shi-chan Dai. 2012. "[Cross-Pressures, Opinion E
 Under Review
 ===
 
+Liu, Tzu-Ping, Gento Kato, and Sam Fuller. [Towards a General Methodology of Bridging Ideological Spaces.]({{ site.baseurl }}{% post_url 2020-07-16-ipbridge %}) July 2020.
+
 Liu, Tzu-Ping and Takanori Fujiwara. [Contrastive Multiple Correspondence Analysis (cMCA): Applying the Contrastive Learning Method to Identify Political Subgroups.]({{ site.baseurl }}{% post_url 2020-07-01-cmca %}) July 2020.
 
 Liu, Tzu-Ping. [How Do Non-Corruption Scandals Affect Voters to Evaluate Politicians? Empirical Evidence from A Conjoint Experiment in the U.K.]({{ site.baseurl }}{% post_url 2019-05-26-second_project %}) July 2019.
@@ -35,8 +37,6 @@ Wu, Chung-li and Tzu-Ping Liu. 2017. "Political Participation in Taiwan." in *[T
 
 Works in Progress
 ===
-
-Liu, Tzu-Ping, Gento Kato, and Sam Fuller. "Non-Parametric Bridging of Non-Parametric Ideological Scales: Application to Mapping Voters on Politicians’ Ideological Space." March 2020.
 
 Liu, Tzu-Ping and Geoff Allen. "Latent Nationalism, Political Opportunity and the Rise of Europe's Far Right." January 2020.
 
