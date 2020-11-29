@@ -22,11 +22,11 @@ Liu, Tzu-Ping, Chung-li Wu, and Shi-chan Dai. 2012. "[Cross-Pressures, Opinion E
 Under Review
 ===
 
+Liu, Tzu-Ping. [Consider Your Companions Carefully: How Voters Perceive (Coalition) Governments’ Poor Valence Images?]({{ site.baseurl }}{% post_url 2019-05-26-second_project_2 %}) November 2020.
+
 Liu, Tzu-Ping, Gento Kato, and Sam Fuller. [Towards a General Methodology of Bridging Ideological Spaces.]({{ site.baseurl }}{% post_url 2020-07-16-ipbridge %}) July 2020.
 
 Liu, Tzu-Ping and Takanori Fujiwara. [Contrastive Multiple Correspondence Analysis (cMCA): Applying the Contrastive Learning Method to Identify Political Subgroups.]({{ site.baseurl }}{% post_url 2020-07-01-cmca %}) July 2020.
-
-Liu, Tzu-Ping. [How Do Non-Corruption Scandals Affect Voters to Evaluate Politicians? Empirical Evidence from A Conjoint Experiment in the U.K.]({{ site.baseurl }}{% post_url 2019-05-26-second_project %}) June 2020.
 
 Liu, Tzu-Ping. [Political Scandals Do Not Scare Party Supporters Away–Empirical Evidence from An Interrupted Time-Series Design and Break Point Detection.]({{ site.baseurl }}{% post_url 2019-05-26-first_project %}) May 2020.
 
@@ -37,6 +37,8 @@ Wu, Chung-li and Tzu-Ping Liu. 2017. "Political Participation in Taiwan." in *[T
 
 Works in Progress
 ===
+
+Liu, Tzu-Ping and Carlos Algara. "he Greater Effects of Sexual Harassment: A Conjoint Analysis Assessing Variation in Political Scandal Effects on Candidate Evaluations in the United Kingdom."" November 2020.
 
 Liu, Tzu-Ping and Geoff Allen. "Latent Nationalism, Political Opportunity and the Rise of Europe's Far Right." January 2020.
 
