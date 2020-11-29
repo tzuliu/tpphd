@@ -38,7 +38,7 @@ Wu, Chung-li and Tzu-Ping Liu. 2017. "Political Participation in Taiwan." in *[T
 Works in Progress
 ===
 
-Liu, Tzu-Ping and Carlos Algara. "he Greater Effects of Sexual Harassment: A Conjoint Analysis Assessing Variation in Political Scandal Effects on Candidate Evaluations in the United Kingdom."" November 2020.
+Liu, Tzu-Ping and Carlos Algara. "The Greater Effects of Sexual Harassment: A Conjoint Analysis Assessing Variation in Political Scandal Effects on Candidate Evaluations in the United Kingdom."" November 2020.
 
 Liu, Tzu-Ping and Geoff Allen. "Latent Nationalism, Political Opportunity and the Rise of Europe's Far Right." January 2020.
 
