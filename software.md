@@ -7,7 +7,7 @@ permalink: /software/
 Python Module
 ===
 
-"ccmca: Contrasting Clusters in Multiple Correspondence Analysis (ccMCA) and Contrastive Multiple Correspondence Analysis (cMCA)" (with [Takanori Fujiwara](https://takanori-fujiwara.github.io/)) \[[Github](https://github.com/takanori-fujiwara/cmca)]\]
+"ccmca: Contrasting Clusters in Multiple Correspondence Analysis (ccMCA) and Contrastive Multiple Correspondence Analysis (cMCA)" (with [Takanori Fujiwara](https://takanori-fujiwara.github.io/)) \[[Github](https://github.com/takanori-fujiwara/cmca)\]
 
 R Package
 ===
