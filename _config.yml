@@ -28,6 +28,7 @@ header_pages:
     - cv.md
     - research.md
     - software.md
+    - teaching.md
     - jp.md
 
 # Build settings
