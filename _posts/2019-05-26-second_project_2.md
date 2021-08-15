@@ -13,6 +13,4 @@ Numerous studies of comparative political behavior examine how voters perceive p
 
 Keywords: coalition politics, voter perceptions, valence issues, conjoint experiment
 
-<!-- Papers, data, and replication codes could be reached [here](https://github.com/tzuliu/Do-Scandals-Matter-A-Conjoint-Experiment-in-the-U.K. "2nd project").(
-[Paper](https://github.com/tzuliu/Do-Scandals-Matter-A-Conjoint-Experiment-in-the-U.K./blob/master/Paper/Conjoint.pdf),
-[Data](https://github.com/tzuliu/Do-Scandals-Matter-A-Conjoint-Experiment-in-the-U.K./tree/master/Data "data"), [R-Codes](https://github.com/tzuliu/Do-Scandals-Matter-A-Conjoint-Experiment-in-the-U.K./tree/master/R%20Files "rcode")) -->
+Data and replication codes could be reached [here](https://github.com/tzuliu/Consider-Your-Companions-Carefully-How-Voters-Perceive-Coalition-Governments-Poor-Valence-Images).

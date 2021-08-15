@@ -7,6 +7,8 @@ permalink: /research/
 Peer-Reviewed Paper
 ===
 
+Liu, Tzu-Ping. Forthcoming. "[Consider Your Companions Carefully: How Voters Perceive (Coalition) Governments’ Poor Valence Images?]({{ site.baseurl }}{% post_url 2019-05-26-second_project_2 %})" *Party Politics*.
+
 Adams, James, Luca Bernardi,  Lawrence Ezrow, Oakley B. Grodon, Tzu-Ping Liu, and M. Chritine Phillips. 2019. "[A Problem with Empirical Studies of Party Policy Shifts: Alternative Measures of Party Shifts Are Uncorrelated.]({{ site.baseurl }}{% post_url 2019-05-27-ejpr1 %})" *European Journal of Political Research* 58(4): 1234-1244.
 
 Hare, Christopher, Tzu-Ping Liu, and Robert Lupton. 2018. "[What Ordered Optimal Classification Reveals about Ideological Structure, Cleavages, and Polarization in the American Mass Public.]({{ site.baseurl }}{% post_url 2019-05-07-ooc %})" *Public Choice* 176(1-2): 57-78.
@@ -21,8 +23,6 @@ Liu, Tzu-Ping, Chung-li Wu, and Shi-chan Dai. 2012. "[Cross-Pressures, Opinion E
 
 Under Review
 ===
-
-Liu, Tzu-Ping. [Consider Your Companions Carefully: How Voters Perceive (Coalition) Governments’ Poor Valence Images?]({{ site.baseurl }}{% post_url 2019-05-26-second_project_2 %}) November 2020.
 
 Liu, Tzu-Ping, Gento Kato, and Sam Fuller. [Towards a General Methodology of Bridging Ideological Spaces.]({{ site.baseurl }}{% post_url 2020-07-16-ipbridge %}) July 2020.
 
