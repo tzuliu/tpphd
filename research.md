@@ -21,17 +21,17 @@ Participation: Lessons of the 2010 City Mayoral Elections in Taiwan.]({{ site.ba
 
 Liu, Tzu-Ping, Chung-li Wu, and Shi-chan Dai. 2012. "[Cross-Pressures, Opinion Expression, and Party Identification: Lessons of the 2008 Legislative Yuan Elections in Taiwan.]({{ site.baseurl }}{% post_url 2019-07-23-ccnetwork %})" *Journal of Electoral Studies*  19(2):1-36. (in Chinese)
 
+Book Chapter
+===
+
+Wu, Chung-li and Tzu-Ping Liu. 2017. "Political Participation in Taiwan." in *[The Taiwan Voter](https://www.press.umich.edu/9375036/taiwan_voter)*, ed. Christopher H. Achen and T. Y. Wang. Ann Arbor, MI: University of Michigan Press.
+
 Under Review
 ===
 
 Liu, Tzu-Ping and Carlos Algara. "The Greater Effects of Sexual Harassment: A Conjoint Analysis Assessing Variation in Political Scandal Effects on Candidate Evaluations in the United Kingdom."" June 2021.
 
 Liu, Tzu-Ping and Takanori Fujiwara. [Contrastive Multiple Correspondence Analysis (cMCA): Applying the Contrastive Learning Method to Identify Political Subgroups.]({{ site.baseurl }}{% post_url 2020-07-01-cmca %}) August 2021.
-
-Book Chapter
-===
-
-Wu, Chung-li and Tzu-Ping Liu. 2017. "Political Participation in Taiwan." in *[The Taiwan Voter](https://www.press.umich.edu/9375036/taiwan_voter)*, ed. Christopher H. Achen and T. Y. Wang. Ann Arbor, MI: University of Michigan Press.
 
 Works in Progress
 ===
