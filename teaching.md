@@ -4,14 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Spring 2021
+Fall 2021
 ===
 
 Undergrad Level:
 
-[Sociology](http://shcourse.utaipei.edu.tw/utaipei/ag_pro/ag304_index.jsp)
-
-[Social Science Research Method](http://shcourse.utaipei.edu.tw/utaipei/ag_pro/ag304_index.jsp)
+[Statistics]({{site.baseurl}}/assets/CV.pdf "CV").
 
 Grad Level:
 
