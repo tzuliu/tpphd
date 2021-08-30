@@ -13,4 +13,6 @@ Numerous studies of comparative political behavior examine how voters perceive p
 
 Keywords: coalition politics, voter perceptions, valence issues, conjoint experiment
 
+Pre-registered plan can be reached [here](https://osf.io/x7fte).
+
 Data and replication codes could be reached [here](https://github.com/tzuliu/Consider-Your-Companions-Carefully-How-Voters-Perceive-Coalition-Governments-Poor-Valence-Images).
