@@ -9,8 +9,8 @@ Fall 2021
 
 Undergrad Level:
 
-[Statistics]({{site.baseurl}}/assets/CV.pdf "CV").
+[Statistics]({{site.baseurl}}/assets/Stats_Syllabus.pdf "Stats")
 
 Grad Level:
 
-[Seminar in Public Policy and Opinion](http://shcourse.utaipei.edu.tw/utaipei/ag_pro/ag304_index.jsp)
+[Urban Planning and Development](http://shcourse.utaipei.edu.tw/utaipei/ag_pro/ag304_index.jsp)
