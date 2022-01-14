@@ -7,7 +7,7 @@ permalink: /research/
 Peer-Reviewed Paper
 ===
 
-Liu, Tzu-Ping. Forthcoming. "[Consider Your Companions Carefully: How Voters Perceive (Coalition) Governments’ Poor Valence Images?]({{ site.baseurl }}{% post_url 2019-05-26-second_project_2 %})" *Party Politics*.
+Liu, Tzu-Ping. 2022. "[Consider Your Companions Carefully: How Voters Perceive (Coalition) Governments’ Poor Valence Images?]({{ site.baseurl }}{% post_url 2019-05-26-second_project_2 %})" *Party Politics*, [https://doi.org/10.1177/13540688211043472](https://doi.org/10.1177/13540688211043472).
 
 Adams, James, Luca Bernardi,  Lawrence Ezrow, Oakley B. Grodon, Tzu-Ping Liu, and M. Chritine Phillips. 2019. "[A Problem with Empirical Studies of Party Policy Shifts: Alternative Measures of Party Shifts Are Uncorrelated.]({{ site.baseurl }}{% post_url 2019-05-27-ejpr1 %})" *European Journal of Political Research* 58(4): 1234-1244.
 
