@@ -29,8 +29,6 @@ Wu, Chung-li and Tzu-Ping Liu. 2017. "Political Participation in Taiwan." in *[T
 Under Review
 ===
 
-Liu, Tzu-Ping and Sam Fuller. [Progressives and Never-Trumpers: Contrastive Principal Component Analysis as an Alternative Method for Public Opinion Research.]({{ site.baseurl }}{% post_url 2022-04-20-cpca %}) April 2022.
-
 Liu, Tzu-Ping and Carlos Algara. "The Greater Effects of Sexual Harassment: A Conjoint Analysis Assessing Variation in Political Scandal Effects on Candidate Evaluations in the United Kingdom." June 2021.
 
 Liu, Tzu-Ping and Takanori Fujiwara. [Contrastive Multiple Correspondence Analysis (cMCA): Applying the Contrastive Learning Method to Identify Political Subgroups.]({{ site.baseurl }}{% post_url 2020-07-01-cmca %}) August 2021.
