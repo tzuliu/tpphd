@@ -35,8 +35,6 @@ Liu, Tzu-Ping and Sam Fuller. [Progressives and Never-Trumpers: Contrastive Prin
 
 Liu, Tzu-Ping and Carlos Algara. "The Greater Effects of Sexual Harassment: A Conjoint Analysis Assessing Variation in Political Scandal Effects on Candidate Evaluations in the United Kingdom." June 2021.
 
-Liu, Tzu-Ping and Takanori Fujiwara. [Contrastive Multiple Correspondence Analysis (cMCA): Applying the Contrastive Learning Method to Identify Political Subgroups.]({{ site.baseurl }}{% post_url 2020-07-01-cmca %}) August 2021.
-
 Works in Progress
 ===
 
