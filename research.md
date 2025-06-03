@@ -7,7 +7,7 @@ permalink: /research/
 Peer-Reviewed Paper
 ===
 
-Liu, Tzu-Ping and Carlos Algara. 2024. "[The Greater Effects of Sexual Harassment: A Conjoint Analysis Assessing Variation in Political Scandal Effects on Candidate Evaluations in the United Kingdom.]({{ site.baseurl }}{% post_url 2024-05-08-sexual %})" *Sexuality Research and Social Policy*. [https://doi.org/10.1007/s13178-024-00978-5](https://doi.org/10.1007/s13178-024-00978-5).
+Liu, Tzu-Ping and Carlos Algara. 2025. "[The Greater Effects of Sexual Harassment: A Conjoint Analysis Assessing Variation in Political Scandal Effects on Candidate Evaluations in the United Kingdom.]({{ site.baseurl }}{% post_url 2024-05-08-sexual %})" *Sexuality Research and Social Policy* 22(2): 539-556. 
 
 Fujiwara, Takanori and Tzu-Pingn Liu. 2023. "[Contrastive Multiple Correspondence Analysis (cMCA): Using Contrastive Learing to Identify Latent Groups in Political Parties.]({{ site.baseurl }}{% post_url 2020-07-01-cmca %})" *Plos One* 18(7): e0287180.
 
